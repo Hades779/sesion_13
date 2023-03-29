@@ -1,0 +1,45 @@
+/*
+primary: EDF1D6
+secundary: 9DC08B
+light: 609966
+info: 40513B
+*/
+
+.bg-primary{
+    background-color: #EDF1D6;
+}
+
+.text-light{
+    color: #f10b0b;
+}
+
+.text-center{
+    text-align: center;
+}
+.text-right{
+    text-align: right;
+}
+.text-secondary{
+    color: #db2020;
+}
+.width-100{
+    width: 100px;
+}
+.bg-info{
+    background-color: #538e9c;
+}
+.text-primary{
+    color: #f81d00;
+}
+.text-white{
+    color: white;
+}
+.bg-secondary{
+    background-color: #37bddf;
+}
+ body{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/6/62/Starsinthesky.jpg);
+ }
+ table{
+    
+ }
